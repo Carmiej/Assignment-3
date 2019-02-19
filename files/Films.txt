@@ -1,0 +1,26 @@
+5
+John Wick
+Chad Stahelhski, David Leich
+85%
+7.2
+Action
+Titanic
+James Cameron
+88%
+7.7
+Drama
+The Revenant
+Aljandro Gonzalez Inarritu
+82%
+8.1
+Drama Film/Thriller
+Mad Max: Furry Road
+George Miller
+97%
+8.1
+Fantasy/Science Fiction
+The Martian
+Ridley Scott
+92%
+8.1
+Fantasy/Science Fiction
